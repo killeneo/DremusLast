@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    font-family: "Anton";
+}
+body{
+    overflow-x: hidden;
+}
+.contHead{
+    width: 100vw;
+    background-color: rgb(62, 71, 45);
+    height: 3vw;
+    position: fixed;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5vw solid white;
+    display: none;
+}
+html{
+    background-color: rgb(62, 71, 45);
+}
+nav{
+    display: flex;
+    font-size: 2vw;
+}
+a{
+    margin: 0 5px;
+}
+.ab{
+    margin-left: 60vw;
+}
+.dr{
+    font-size: 30vw;
+    font-family: "Anton";
+    position: fixed;
+    z-index: 2;
+    top: 1.5vw;
+}
+.card > img{
+    width: 38vw;
+    height: 38vw;
+    border: none;
+    margin-left: 2vw;
+}
+span:hover{
+    color: rgb(143, 143, 143);
+}
+.contHead2{
+    width: 100vw;
+    background-color: rgb(62, 71, 45);
+    height: 3vw;
+    position: fixed;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5vw solid white;
+}

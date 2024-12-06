@@ -1,0 +1,12 @@
+*{
+    font-family: "Anton";
+}
+.card-text{
+    position: absolute;
+    margin-left: 2vw;
+    font-size: 2vw;
+}
+.card-text2{
+    margin-left: 54vw;
+    font-size: 2vw;
+}
